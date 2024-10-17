@@ -14,7 +14,7 @@
 ---
 
 # 启动公告姬
-1.前往<a href="https://github.com/swallow513/BFVautonotice/releases/tag/v1.0.0" target="_blank">releases</a>界面下载公告机
+1. 前往<a href="https://github.com/swallow513/BFVautonotice/releases/tag/v1.0.0" target="_blank">releases</a>界面下载公告机
 2. 启动公告姬程序。
 3. 填写要发送的内容以及发送时间间隔。
 4. 启动公告姬（点击一次启动按钮即可，不要重复点击）。
